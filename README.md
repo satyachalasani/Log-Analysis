@@ -71,5 +71,3 @@ Markoff Chaney--84557
 
 2016-07-17--2.3 %     
 
-
-rrrrr
